@@ -10,6 +10,21 @@ const weatherData = {
         humidity: 75,
         description: "Cloudy",
     },
+    "Tamilnadu": {
+        temperature: 22,
+        humidity: 60,
+        description: "Sunny",
+    },
+    "India": {
+        temperature: 22,
+        humidity: 60,
+        description: "Sunny",
+    },
+    "Delhi": {
+        temperature: 22,
+        humidity: 60,
+        description: "Sunny",
+    },
     "Tokyo": {
         temperature: 18,
         humidity: 80,
