@@ -16,13 +16,13 @@ const weatherData = {
         description: "Sunny",
     },
     "India": {
-        temperature: 22,
-        humidity: 60,
+        temperature: 42,
+        humidity: 50,
         description: "Sunny",
     },
     "Delhi": {
-        temperature: 22,
-        humidity: 60,
+        temperature: 32,
+        humidity: 68,
         description: "Sunny",
     },
     "Tokyo": {
